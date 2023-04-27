@@ -1,0 +1,298 @@
+// {
+//     id: '800769565877338122',
+//         username: 'Hadi Az',
+//             global_name: null,
+//                 display_name: null,
+//                     avatar: '615b18825ba25efb2980c1611fcf438a',
+//                         discriminator: '6654',
+//                             public_flags: 0,
+//                                 flags: 0,
+//                                     banner: null,
+//                                         banner_color: '#ffffff',
+//                                             accent_color: 16777215,
+//                                                 locale: 'en-GB',
+//                                                     mfa_enabled: true,
+//                                                         premium_type: 0,
+//                                                             avatar_decoration: null,
+//                                                                 email: 'hadiazari30@gmail.com',
+//                                                                     verified: true,
+//                                                                         provider: 'discord',
+//                                                                             accessToken: 'ixBOWPKUwXoPHCDodqPPSSVYi4OWJS',
+//                                                                                 connections: [
+//                                                                                     {
+//                                                                                         type: 'epicgames',
+//                                                                                         id: 'ccaa29ec1a304e82947103aea20d9919',
+//                                                                                         name: 'hadiazt',
+//                                                                                         visibility: 1,
+//                                                                                         friend_sync: false,
+//                                                                                         show_activity: true,
+//                                                                                         verified: true,
+//                                                                                         two_way_link: false,
+//                                                                                         metadata_visibility: 1
+//                                                                                     },
+//                                                                                     {
+//                                                                                         type: 'github',
+//                                                                                         id: '65118892',
+//                                                                                         name: 'hadiazt',
+//                                                                                         visibility: 1,
+//                                                                                         friend_sync: false,
+//                                                                                         show_activity: true,
+//                                                                                         verified: true,
+//                                                                                         two_way_link: false,
+//                                                                                         metadata_visibility: 1
+//                                                                                     },
+//                                                                                     {
+//                                                                                         type: 'spotify',
+//                                                                                         id: 'n5e5hj0u1q7zx3sir26h8zvk6',
+//                                                                                         name: 'hadi.az',
+//                                                                                         visibility: 1,
+//                                                                                         friend_sync: false,
+//                                                                                         show_activity: true,
+//                                                                                         verified: true,
+//                                                                                         two_way_link: false,
+//                                                                                         metadata_visibility: 1
+//                                                                                     },
+//                                                                                     {
+//                                                                                         type: 'steam',
+//                                                                                         id: '76561198851683044',
+//                                                                                         name: 'hadi',
+//                                                                                         visibility: 1,
+//                                                                                         friend_sync: false,
+//                                                                                         show_activity: true,
+//                                                                                         verified: true,
+//                                                                                         two_way_link: false,
+//                                                                                         metadata_visibility: 1
+//                                                                                     },
+//                                                                                     {
+//                                                                                         type: 'tiktok',
+//                                                                                         id: '7dc5ad89-87fe-4c81-9520-22d2bc3d2d2d',
+//                                                                                         name: 'hadi.azt',
+//                                                                                         visibility: 1,
+//                                                                                         friend_sync: false,
+//                                                                                         show_activity: true,
+//                                                                                         verified: true,
+//                                                                                         two_way_link: false,
+//                                                                                         metadata_visibility: 1
+//                                                                                     },
+//                                                                                     {
+//                                                                                         type: 'twitter',
+//                                                                                         id: '1238019599528067072',
+//                                                                                         name: 'hadiazt',
+//                                                                                         visibility: 1,
+//                                                                                         friend_sync: false,
+//                                                                                         show_activity: true,
+//                                                                                         verified: true,
+//                                                                                         two_way_link: false,
+//                                                                                         metadata_visibility: 1
+//                                                                                     }
+//                                                                                 ],
+//                                                                                     guilds: [
+//                                                                                         {
+//                                                                                             id: '222078108977594368',
+//                                                                                             name: '🌈 discord.js - Imagine a bot',
+//                                                                                             icon: '1ad76bddd2af468c31fdb10cbce63d74',
+//                                                                                             owner: false,
+//                                                                                             permissions: 37080128,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '111022794198080'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '234329795532423168',
+//                                                                                             name: '𝗟𝗮𝘀 𝗩𝗲𝗴𝗮𝘀',
+//                                                                                             icon: 'a_aebf38a818f3806855b9e38978e31f14',
+//                                                                                             owner: false,
+//                                                                                             permissions: 37064257,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '5089573310017'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '517288794077003786',
+//                                                                                             name: 'BiGeZMoGe ArMy 💖',
+//                                                                                             icon: 'a_37012ef146248e1c06ed66f31c0815cc',
+//                                                                                             owner: false,
+//                                                                                             permissions: 37084737,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '110644837080641'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '578558255392096256',
+//                                                                                             name: '𝗛 𝗔 𝗥 𝗠 𝗢 𝗡 𝗬',
+//                                                                                             icon: 'a_523d14344b42b26fe9bdc09f0f16d686',
+//                                                                                             owner: false,
+//                                                                                             permissions: 37030401,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '110640542059009'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '610523875595386899',
+//                                                                                             name: 'Falake-Z',
+//                                                                                             icon: 'c303d4b52e89b4590026c33c6aa25213',
+//                                                                                             owner: false,
+//                                                                                             permissions: 1,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '111016314667009'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '612774547577372721',
+//                                                                                             name: 'Rozhiin',
+//                                                                                             icon: 'a_dcfef08f63ed5eeb1463e7030ec811cc',
+//                                                                                             owner: false,
+//                                                                                             permissions: 2147483647,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '140737488355327'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '613425648685547541',
+//                                                                                             name: 'Discord Developers',
+//                                                                                             icon: 'a_08b73e86d3c5661db3e397e4c557f751',
+//                                                                                             owner: false,
+//                                                                                             permissions: 37080576,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '110954074721792'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '721126627165077545',
+//                                                                                             name: 'EhsanDev',
+//                                                                                             icon: '2a6bbdd813d12919b06a1470d532f4d4',
+//                                                                                             owner: false,
+//                                                                                             permissions: 2147483647,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '140737488355327'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '759373139305693184',
+//                                                                                             name: '𝘔 𝘢 𝘵 𝘪 𝘯',
+//                                                                                             icon: 'a7339904fee176227389c47165c9fe13',
+//                                                                                             owner: false,
+//                                                                                             permissions: 2147483647,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '140737488355327'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '785729528638734347',
+//                                                                                             name: 'Soon....',
+//                                                                                             icon: 'ea7b50ddeffec53a513ca9969d3be9d7',
+//                                                                                             owner: false,
+//                                                                                             permissions: 2147483647,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '140737488355327'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '795087444965720074',
+//                                                                                             name: 'OLD EMOJI',
+//                                                                                             icon: 'f4bf224905eb2b88a5bda9003574a188',
+//                                                                                             owner: false,
+//                                                                                             permissions: 37064512,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '110638394609472'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '796767783354368030',
+//                                                                                             name: 'Paraffin Tutorials',
+//                                                                                             icon: 'ba0f7bb6cf19b31fc573e9cc1af46625',
+//                                                                                             owner: false,
+//                                                                                             permissions: 2147483647,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '140737488355327'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '833237381381095444',
+//                                                                                             name: 'RΛDΛЯ',
+//                                                                                             icon: 'a_5ccbc5197cbd9929d8926e5088b51eaf',
+//                                                                                             owner: false,
+//                                                                                             permissions: 33622017,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '110500952213505'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '835644831128617021',
+//                                                                                             name: 'Celestial™',
+//                                                                                             icon: 'a_94ba67ed0c95305cdfc49d924e979f7c',
+//                                                                                             owner: false,
+//                                                                                             permissions: 2147483647,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '140737488355327'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '835973138415353886',
+//                                                                                             name: 'HAGH official',
+//                                                                                             icon: '3db684d9f99162f95c715f5f85e36a86',
+//                                                                                             owner: false,
+//                                                                                             permissions: 104189505,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '111020713823809'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '836691663773499472',
+//                                                                                             name: 'Crypto Official',
+//                                                                                             icon: 'a_1ceaf85143105bbf9396f99b79a796b0',
+//                                                                                             owner: false,
+//                                                                                             permissions: 372764241,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '110645172760145'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '837721938192760893',
+//                                                                                             name: 'GσÐ MσÐê ™ _ Gamers Community',
+//                                                                                             icon: 'e9441a8e9bf929ece758d40248cecb4e',
+//                                                                                             owner: false,
+//                                                                                             permissions: 37211713,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '137411073396289'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '922756349752901672',
+//                                                                                             name: 'Discordly.City',
+//                                                                                             icon: '4e8e4017b52bb6f451a1733df0cfd36b',
+//                                                                                             owner: false,
+//                                                                                             permissions: 1177931457,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '111023935049409'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '924357422255071313',
+//                                                                                             name: '◤Dr.K◢',
+//                                                                                             icon: '98e5646d62d65132769eac9db116d5cf',
+//                                                                                             owner: false,
+//                                                                                             permissions: 104189505,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '111022861307457'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '998534356928843908',
+//                                                                                             name: 'Projects Test Area',
+//                                                                                             icon: 'bd36244247977660c4554ddfbc65f534',
+//                                                                                             owner: true,
+//                                                                                             permissions: 2147483647,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '140737488355327'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '1052217655437836319',
+//                                                                                             name: '零│𝚉𝙴𝚁𝙾 𝙵𝙰𝙼𝙸𝙻𝚈',
+//                                                                                             icon: 'addcaaed2ff5f340a752f4b0c5fe7692',
+//                                                                                             permissions: 2147483647,
+//                                                                                             features: [],
+//                                                                                             permissions_new: '140737488355327'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '1064923150325927936',
+//                                                                                             name: 'Decentra dragon',
+//                                                                                             icon: 'cb8d4189ef3f94340038868810f80167',
+//                                                                                             owner: false,
+//                                                                                             permissions: 2147483647,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '140737488355327'
+//                                                                                         },
+//                                                                                         {
+//                                                                                             id: '1098284410396213371',
+//                                                                                             name: '𝐇𝐞𝐬𝐨𝐥𝐢 𝐏𝐥𝐚𝐲𝐬',
+//                                                                                             icon: '1fb72c7f76ffcf53dbad178d22a6c3c9',
+//                                                                                             owner: false,
+//                                                                                             permissions: 104320577,
+//                                                                                             features: [Array],
+//                                                                                             permissions_new: '137411140505153'
+//                                                                                         }
+//                                                                                     ],
+//                                                                                         fetchedAt: '2023-04-27T08:29:28.007Z'
+// }
